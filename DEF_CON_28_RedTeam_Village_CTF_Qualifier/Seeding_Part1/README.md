@@ -166,8 +166,8 @@ Which lets you fill in the blanks fairly easily
 So the key used by the program is `ereselamordemivida`
 
 If we put that into the program we get this response:
-![enter image description here](success.jpg)
+![SUCCESS](success.JPG)
 
-> Written with [StackEdit](https://stackedit.io/).
+
 
 
